@@ -1,0 +1,40 @@
+.container {
+    width: 500px;
+    height: 800px;
+
+    background-color: #797978;
+    padding-left: 30px;
+}
+
+#weight,
+#height {
+    width: 150px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+#weight-guide {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    padding: 1px 30px;
+    border-radius: 10px;
+    background-color: #fff;
+    color: #212121;
+    margin-left: 80px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 24px;
+    border: solid #212121 2px;
+}
+
+#result {
+    font-size: 30px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+}
